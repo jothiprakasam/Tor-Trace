@@ -1,5 +1,4 @@
-# Welcome to Tor trace 
-## Large-Scale Deanonymization of Onion Services
+# Welcome to Tor trace - Large-Scale Deanonymization of Onion Services
 
 # The Project
 Tor Trace delivers precise, real-time traffic correlation and rapid forensic analysis, turning
@@ -33,7 +32,7 @@ Dockerfile: 0.2%
 # Project setup
 1. Clone the project
    ```
-   git clone
+   git clone https://github.com/sankar5302k/Tor-Trace.git
    ```
 2. Once you have cloned, Make sure you are in the project directory
    ```
@@ -41,8 +40,15 @@ Dockerfile: 0.2%
    ```
 3. Open another terminal, and run this commands
    ```
-   cd frontend 
+   cd frontend
+   npm install
    npm run dev
    ```
 # Final step
 At last open the Tortrace.exe file to use the Service and start using it.
+
+## Software requirements
+1. NodeJS and npm
+2. Docker Desktop
+
+Thank you!
